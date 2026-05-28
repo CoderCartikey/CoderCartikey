@@ -20,6 +20,7 @@ Currently learning web dev and exploring AI APIs.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [📸 WebCam_AI](https://github.com/CoderCartikey/webcam-ai) | My current in-process project.. so can't disclose you further HeHeHeHe..XD (even name is fake my dawg) |
 | [🎨 Sketch Analyzer AI](https://github.com/CoderCartikey/Sketch-Analyzer_AI) | Upload a sketch — get a score, improvement tips, and AI vs human detection | HTML/CSS/JS, Groq API, Llama 4 Vision |
 | [⏰ ChronoSwitch](https://github.com/CoderCartikey/chronoswitch) | Arduino robot that physically presses my room light switch at 5 AM. Built solo in 9 days, ₹826 in parts | Arduino, C++, RTC |
 | [🎮 Return of the King](https://github.com/CoderCartikey/return-of-the-king) | 2D pixel-art platformer built in under a week. Published on itch.io | Godot, GDScript |
@@ -43,3 +44,6 @@ Skateboarding · Sketching · Filmmaking & Video Editing · Photography · Previ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikey--bhardwaj--in-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kartikey-bhardwaj-in)
 [![Instagram](https://img.shields.io/badge/Instagram-kkartkyy-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/kkartkyy/)
+
+And always remember
+Bakchodi ny...!!
