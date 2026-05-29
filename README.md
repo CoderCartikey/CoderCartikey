@@ -12,7 +12,7 @@
 
 I'm a CS student who builds things independently — a physical Arduino robot that presses my light switch at 5 AM, a 2D pixel-art platformer made in a week, an AI tool that analyzes sketches. I like figuring things out with whatever I have.
 
-Currently learning web dev and exploring AI APIs.
+Currently building an AI-powered webcam enhancement system using PyTorch and CUDA on RTX 3060.
 
 ---
 
