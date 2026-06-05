@@ -12,9 +12,7 @@
 
 I'm a CS student who builds things independently — a physical Arduino robot that presses my light switch at 5 AM (although I still wake up at 10am), a 2D pixel-art platformer made in a week, an AI tool that analyzes sketches. I like figuring things out with whatever I have.
 
-Currently building an AI-powered webcam enhancement system using PyTorch and CUDA on RTX 3060.
-[update I don't think so I will be...well am pivioting anyways]
-[more update I built it..]
+Currently making GhostRes Desktop version to make GhostRes ease to use for everyone.
 
 ---
 
@@ -32,7 +30,7 @@ Currently building an AI-powered webcam enhancement system using PyTorch and CUD
 
 ## Tech I work with
 
-`Python` `Java` `C++` `HTML / CSS / JS` `GDScript` `Arduino` `MySQL` `Groq API`
+`Python` `Java` `C++` `HTML / CSS / JS` `GDScript` `Arduino IDE` `MySQL` `Groq API` `NVIDEA CUDA` `Real-ESRGAN`
 
 ---
 
@@ -46,6 +44,3 @@ Skateboarding · Sketching · Filmmaking & Video Editing · Photography · Previ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikey--bhardwaj--in-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kartikey-bhardwaj-in)
 [![Instagram](https://img.shields.io/badge/Instagram-kkartkyy-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/kkartkyy/)
-
-And always remember
-Bakchodi ny...!!
