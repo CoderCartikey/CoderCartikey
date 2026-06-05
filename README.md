@@ -36,7 +36,7 @@ Currently making GhostRes Desktop version to make GhostRes ease to use for every
 
 ## Also into
 
-Skateboarding · Sketching · Filmmaking & Video Editing · Photography · Previously ran a YouTube channel (~900 subs)
+Skateboarding · Sketching · Filmmaking & Video Editing · Photography · Previously ran a YouTube channel (~900 subs) [Deleted NOW]
 
 ---
 
