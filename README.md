@@ -6,6 +6,7 @@
 ![Year](https://img.shields.io/badge/2nd%20Year-2025--26-teal?style=flat-square)
 ![Location](https://img.shields.io/badge/Dehradun-India-orange?style=flat-square)
 
+(hopefully pass ho jauu...with no backs...lol🙏)
 ---
 
 ## About me
