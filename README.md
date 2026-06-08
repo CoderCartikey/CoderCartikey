@@ -42,4 +42,3 @@ Skateboarding · Sketching · Filmmaking & Video Editing · Photography · Previ
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikey--bhardwaj--in-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kartikey-bhardwaj-in)
