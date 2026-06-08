@@ -28,13 +28,6 @@ Currently making GhostRes Desktop version to make GhostRes ease to use for every
 
 ---
 
-## Tech I work with
-
-`Python` `Java` `C++` `HTML / CSS / JS` `GDScript` `Arduino IDE` `MySQL` `Groq API` `NVIDEA CUDA` `Real-ESRGAN`
-
----
-
 ## Also into
 
 Skateboarding · Sketching · Filmmaking & Video Editing · Photography · Previously ran a YouTube channel (~900 subs) [Deleted NOW]
-
