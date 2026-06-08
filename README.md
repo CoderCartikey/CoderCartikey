@@ -6,14 +6,14 @@
 ![Year](https://img.shields.io/badge/2nd%20Year-2025--26-teal?style=flat-square)
 ![Location](https://img.shields.io/badge/Dehradun-India-orange?style=flat-square)
 
-[hopefully pass ho jauu...with no backs...lol🙏]
+> hopefully pass ho jauu...with no backs...lol🙏
 ---
 
 ## About me
 
 I'm a CS student who builds things independently — a physical Arduino robot that presses my light switch at 5 AM (although I still wake up at 10am), a 2D pixel-art platformer made in a week, an AI tool that analyzes sketches. I like figuring things out with whatever I have.
 
-
+CURRENTLY: Working on a personal project will update you all sooner or may be never (depends on success of the project) 
 ---
 
 ## Projects
