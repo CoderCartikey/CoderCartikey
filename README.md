@@ -1,4 +1,9 @@
-# Hey, I'm Kartikey 👋
+# Hey, I'm 
+█   █  ███  ████  █████ ███ █   █ █████ █   █ 
+█  █  █   █ █   █   █    █  █  █  █      █ █  
+███   █████ ████    █    █  ███   ████    █   
+█  █  █   █ █  █    █    █  █  █  █       █   
+█   █ █   █ █   █   █   ███ █   █ █████   █   
 
 > Building games · hardware · AI tools · from a hostel room
 
