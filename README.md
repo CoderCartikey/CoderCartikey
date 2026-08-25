@@ -11,7 +11,7 @@
 > Building games · hardware · AI tools · from a hostel room
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-DIT%20University-blue?style=flat-square)
-![Year](https://img.shields.io/badge/2nd%20Year-2025--26-teal?style=flat-square)
+![Year](https://img.shields.io/badge/3rd%20Year-2025--26-teal?style=flat-square)
 ![Location](https://img.shields.io/badge/Dehradun-India-orange?style=flat-square)
 
 ---
