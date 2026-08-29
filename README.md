@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm a CS student who builds things independently — a physical Arduino robot that presses my light switch at 5 AM (although I still wake up at 10am), a 2D pixel-art platformer made in a week, an AI tool that analyzes sketches. I like figuring things out with whatever I have. 
+I independently turn unusual ideas into working software and hardware with limited resources. 
 
 Currently building a new personal project—details coming after the first working prototype. 
 
@@ -40,4 +40,4 @@ Currently building a new personal project—details coming after the first worki
 
 ## Also into
 
-Skateboarding · Sketching · Filmmaking & Video Editing · Photography · Previously ran a YouTube channel (~900 subs) [Deleted NOW]
+Skateboarding · Sketching · Filmmaking & Video Editing · Previously ran a YouTube channel (~900 subs) [Deleted NOW]
