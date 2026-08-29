@@ -28,6 +28,7 @@ Currently building a new personal project—details coming after the first worki
 
 | Project | What it does | Stack |
 |---|---|---|
+| [🔐 IntentLock](https://github.com/CoderCartikey/intentlock) | AI-agent payment authorization gateway — blocks hidden subscriptions, prompt injection, transaction tampering and replay before Razorpay checkout | Python, Groq, Streamlit, Pydantic, SQLite, Razorpay |
 | [📸 GhostRes](https://github.com/CoderCartikey/GhostRes) | Open source video enhancer — upscales low-res footage using AI running locally on GPU. No cloud, no subscription | Python, PyTorch, Real-ESRGAN, CUDA |
 | [🎨 Sketch Analyzer AI](https://github.com/CoderCartikey/Sketch-Analyzer_AI) | Upload a sketch — get a score, improvement tips, and AI vs human detection | HTML/CSS/JS, Groq API, Llama 4 Vision |
 | [⏰ ChronoSwitch](https://github.com/CoderCartikey/chronoswitch) | Arduino robot that physically presses my room light switch at 5 AM. Built solo in 9 days, ₹826 in parts | Arduino, C++, RTC |
