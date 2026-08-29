@@ -33,7 +33,7 @@ Currently building a new personal project—details coming after the first worki
 | [🎨 Sketch Analyzer AI](https://github.com/CoderCartikey/Sketch-Analyzer_AI) | Upload a sketch — get a score, improvement tips, and AI vs human detection | HTML/CSS/JS, Groq API, Llama 4 Vision |
 | [⏰ ChronoSwitch](https://github.com/CoderCartikey/chronoswitch) | Arduino robot that physically presses my room light switch at 5 AM. Built solo in 9 days, ₹826 in parts | Arduino, C++, RTC |
 | [🧟 DITvsZOM](https://github.com/CoderCartikey/DITvsZombies) | Explore my college campus but you are under zombie attack | Godot Engine 4.3, GDScript |
-| [❕ JAVA Compiler](https://github.com/CoderCartikey/Java_compiler_ide) | A online Java compiler and IDE similar to Programiz, JDoodle, OneCompiler, and OnlineGDB. | HTML5, CSS3 (with CSS Grid & Flexbox), Vanilla JavaScript (ES6+), Monaco Editor, Node.js, Express.js, CORS middleware, UUID, Local JDK |
+| [❕ JAVA Compiler](https://github.com/CoderCartikey/Java_compiler_ide) | A online Java compiler and IDE similar to Programiz, JDoodle, OneCompiler, and OnlineGDB. (PRIVATE REPO currently) | HTML5, CSS3 (with CSS Grid & Flexbox), Vanilla JavaScript (ES6+), Monaco Editor, Node.js, Express.js, CORS middleware, UUID, Local JDK |
 | [🎮 Return of the King](https://github.com/CoderCartikey/return-of-the-king) | 2D pixel-art platformer built in under a week. Published on itch.io | Godot, GDScript |
 | [🗄️ Employee Management System](https://github.com/CoderCartikey/EmployeeManagementSystem) | Desktop CRUD app with full database integration | Java Swing, MySQL |
 
